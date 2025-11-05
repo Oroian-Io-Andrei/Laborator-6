@@ -1,0 +1,41 @@
+table, th, td {
+	border: 1px solid gray;
+	border-spacing: 0px;
+}
+a {
+	color: purple;
+	font-family: "Comic Sans MS", "Comic Sans";
+}
+h1 {
+	color: red;
+	font-family: "Impact";
+}
+h2 {
+	color: green;
+	outline: 5px dotted blue;
+}
+h3 {
+	direction: rtl;
+	color: blue;
+}
+h4 {
+	color: yellow;
+}
+p {
+	opacity: 0.5;
+}	
+#rounded-img {
+	border-radius: 30px;
+}
+.align-center {
+	text-align: center;
+}
+body {
+	background: url("images/notebook.jpg");
+}
+h5 {
+	color: brown;
+}
+ul, li {
+	color: pink;
+}
